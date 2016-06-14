@@ -1,0 +1,40 @@
+index
+	Adventure	Career
+	
+	
+Logo{	Menu items
+	Current page
+	
+Click adventure:
+submenu
+random blog
+
+
+Adventure: display links to adventures and show random adventure
+
+Careers: Links to github,linkedin,resume
+contact info: careers@trougnouf.com
+some text
+
+file structure:
+index.php
+style.css
+
+blog/adventures/{*.php, *.src, */img/)
+
+blog/updateall.php
+
+careers/resume
+
+?p=careers, p=adventures, p=blog, p=
+
+
+logo > adventure / careers
+logo > adventure logo (click logo = home)
+
+
+
+
+blog:
+image extends all the way to resolution/width
+
