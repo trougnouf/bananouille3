@@ -1,0 +1,10 @@
+T=page title:	title|dates|places
+t=daily title:	date|title
+i=img: imgname|description or imgname
+p=text/paragraph
+v=vertical flexible container
+w=wikipedia	pagename|name or pagename
+r=raw
+a=link	link|name
+[] = empty separator
+[[anything]] puts anything within a flexible container
