@@ -8,3 +8,5 @@ r=raw
 a=link	link|name
 [] = empty separator
 [[anything]] puts anything within a flexible container
+: is optional
+[!=comment

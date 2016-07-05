@@ -5,7 +5,9 @@ p=text/paragraph
 v=vertical flexible container
 w=wikipedia	pagename|name or pagename
 r=raw
+?=random
 a=link	link|name
 [] = empty separator
 [[anything]] puts anything within a flexible container
 : is optional
+[!=comment
